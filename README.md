@@ -21,7 +21,6 @@ Software Developer
 <img src="https://skillicons.dev/icons?i=js" />
   <img src="https://skillicons.dev/icons?i=nodejs" />
 <img src="https://skillicons.dev/icons?i=react" />
-<img src="https://skillicons.dev/icons?i=aws" />
 <img src="https://skillicons.dev/icons?i=postgres" />
 <img src="https://skillicons.dev/icons?i=mongodb" />
 <img src="https://skillicons.dev/icons?i=mysql" />
