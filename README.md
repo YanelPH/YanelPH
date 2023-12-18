@@ -1,4 +1,4 @@
-<h1>Hi 👋 I'm Yanel</h1>
+<h1>👋 Hi, I'm Yanel</h1>
 
 Software/Blockchain Developer
 
