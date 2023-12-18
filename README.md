@@ -2,7 +2,6 @@
 
 Software Developer
 
-I also have a YouTube channel where I talk about coding, career and personal growth -  [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dan-carlton" height="20" width="20" /> Nika Khachi](https://youtube.com/@nikakhachi)
 
 - 🌍 I'm based in **Toulouse, France**
 
