@@ -1,7 +1,8 @@
-<h1>Hi 👋 My name is Yanel</h1>
+<h1>Hi 👋 I'm Yanel</h1>
 
-Software Developer
+Software/Blockchain Developer
 
+- 🔭 I'm immersed in finance, cryptocurrencies, and passionate about the intricate world of finance and investment.
 
 - 🌍 I'm based in **Toulouse, France**
 
