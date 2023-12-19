@@ -8,11 +8,11 @@ Software/Blockchain Developer
 
 <!-- - 🔭 I’m currently building **Web3** projects -->
 
-- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dan-carlton" height="20" width="15" /> You can check out my **[LinkedIn](https://www.linkedin.com/in/yanel-phinera-horth-394973123/)**
+- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dan-carlton" height="20" width="15" /> You can check out my LinkedIn profile under the name **[LinkedIn](https://www.linkedin.com/in/yanel-phinera-horth-394973123/)**
 
-- 👨‍💻 You can view my portfolio at **[yanel.cool](https://yanel.cool)**
+- 👨‍💻 Explore my portfolio at **[yanel.cool](https://yanel.cool)**
 
-- 📫 You can contact me at **yphinerahorth@gmail.com**
+- 📫 Feel free to contact me via email at **yphinerahorth@gmail.com**
 
 <h3 align="left">Skills</h3>    
 
