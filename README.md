@@ -1,6 +1,6 @@
 <h1>👋 Hi, I'm Yanel</h1>
 
-Software/Blockchain Developer
+Software Developer
 
 - 🔭 I'm immersed in finance, cryptocurrencies, and passionate about the intricate world of finance and investment.
 
