@@ -29,7 +29,7 @@ Software Developer
 </div>
 
 
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yanelph&show_icons=true&locale=en&layout=compact" alt="yanelph" /></p>
 
 <!--
 <h3 align="left">My GitHub Statistics</h3>
