@@ -28,7 +28,7 @@ Software Developer
 <img src="https://skillicons.dev/icons?i=redis" />
 </div>
 
-
+<h3 align="left">My GitHub Statistics</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yanelph&show_icons=true&locale=en&layout=compact" alt="yanelph" /></p>
 
 <!--
