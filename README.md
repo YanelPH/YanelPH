@@ -4,7 +4,7 @@ Software Developer
 
 - 🔭 I'm immersed in finance, cryptocurrencies, and passionate about the intricate world of finance and investment.
 
-- 🌍 I'm based in **Paris, France**
+- 🌍 I'm based in **Toulouse, France**
 
 <!-- - 🔭 I’m currently building **Web3** projects -->
 
