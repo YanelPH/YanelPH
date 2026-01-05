@@ -6,7 +6,7 @@ Software Developer
   
 - 💞️ I’m looking to collaborate on projects on blockchain and with blockchain developers
   
-- 🌍 I'm based in **Toulouse, France**
+- 🌍 I'm based in **Paris, France**
 
 <!-- - 🔭 I’m currently building **Web3** projects -->
 
